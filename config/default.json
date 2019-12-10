@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://trand4:Pokemon18@contactkeeper-jsclf.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
